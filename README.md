@@ -1,4 +1,4 @@
 renamPlex
 =========
 
-A renamer program for Plex media server
+A renamer program for Plex media server.
